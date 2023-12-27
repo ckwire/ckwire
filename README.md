@@ -2,7 +2,7 @@
 
 - :telescope: I’m currently a Software Developer within the construction industry.
   
-- :seedling: Currently expanding my C# .NET experience, as well as exploring JavaScript and its many frameworks.
+- :seedling: I am currently expanding my C# .NET experience, as well as exploring JavaScript/TypeScript and its many frameworks.
  
 <!--
 **ckwire/ckwire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
