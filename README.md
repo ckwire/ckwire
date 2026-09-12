@@ -8,7 +8,7 @@ I translate between two worlds most technologists don't touch at the same time: 
 
 ## What I Do
 
-I've spent ~15 years across software development, enterprise integration, and IT leadership, with nearly a decade of that inside AEC firms (TowerPinkster, Rockford Construction). Currently a Technology Champion in industrial motor repair, driving strategic technology planning rather than day-to-day tickets.
+I've spent ~15 years across software development, enterprise integration, and IT leadership, with nearly a decade of that inside AEC firms.
 
 My work sits at the intersection of:
 
