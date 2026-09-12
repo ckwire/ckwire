@@ -23,7 +23,7 @@ My work sits at the intersection of:
 
 **Acumatica Integration (in progress)** — Self-hosted Acumatica instance built as a portfolio piece to demonstrate custom module integration depth using C#/.NET.
 
-**Enterprise Financial Reporting Overhaul** — Architected integrations across Dayforce, Yardi, Concur, and Fusion Operations at Rockford Construction; built ETL pipelines in Azure Data Factory; materially improved financial reporting speed via Power BI.
+**Enterprise Financial Reporting Overhaul** — Architected integrations across Dayforce, Yardi, Concur, and Fusion Operations; built ETL pipelines in Azure Data Factory; materially improved financial reporting speed via Power BI.
 
 **Fire Department Reporting & Data Platform** — Independent project building a reporting application against a First Due data warehouse, including ETL pipelines and LLM-generated narrative reporting styled to match domain-specific writing conventions.
 
